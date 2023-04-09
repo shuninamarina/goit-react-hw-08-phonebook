@@ -1,0 +1,18 @@
+.wrapper {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+
+.username {
+  font-weight: 700;
+}
+
+.logout {
+  margin-right: 30px;
+}
+
+.logout:hover,
+.logout:focus {
+  fill: grey;
+}
